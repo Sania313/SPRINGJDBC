@@ -1,0 +1,8 @@
+insert into alien(id, name, tech)
+values(123,"Sania Shah", "Cyber")
+
+insert into alien(id, name, tech)
+values(555,"Musawir", "EHS")
+
+insert into alien(id, name, tech)
+values(223,"Shah", "CS")
